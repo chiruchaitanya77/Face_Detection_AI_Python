@@ -1,5 +1,2 @@
 # Face-Recodnition-AI-with-Python
-This is a ML Face Recognition Project 
-
-
-<img align="center" alt="face recognition" src="">
+This is a ML Face Recognition Project using face_recognition library
